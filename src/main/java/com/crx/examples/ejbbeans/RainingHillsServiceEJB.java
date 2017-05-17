@@ -25,8 +25,8 @@ public class RainingHillsServiceEJB {
 	 */
 	private RainingHillsService rainingHillsService=new RainingHillsServiceImpl();
     /**
-     * @param A Double Array hills 
-     * @return A Volume of All Units are needed To fill The Hills
+     * @param An Integer Array hills 
+     * @return Volume of All Units are needed To fill The Hills
      * <p>
      * The Time Complexity For Raining Hills Calculation Algorithm is O(n).
      * The Space Complexity For Raining Hills Calculation Algorithm is O(n).
