@@ -5,6 +5,7 @@
 - JSF 2.2
 - JUNIT 4.11
 - Java EE 7
+- Primefaces 6.1
 
 ###############  Class Path ####################################
 
@@ -18,13 +19,13 @@ The Test Classes are Found under 'src/test/java/'
 
 -ejbbeans : package for business component EJB Session BEANS (Service layer Package).
 
--exception : All Exception classes defined in this spackage.
+-exception : All Exception classes are defined in this package.
 
 -faces/beans :Jsf Managed Beans are defined under this package (Controller Package).
 
--model : All Data Objects defined under this package.
+-model : All Data Objects are defined under this package.
 
--service : all the business logic are found under this package. 
+-service : all the business logic and Implemenation classes are found under this package. 
 
 
 
